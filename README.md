@@ -1,2 +1,2 @@
 # taopaipai
-scan tour receipt and check total payment.
+scan your receipt and check total payment.
